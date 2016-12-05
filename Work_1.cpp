@@ -95,13 +95,13 @@ int main()
 	setlocale(0, "");
 
 	int oik=one();
-	cout << "1 цикл. Число билетов =" << oik << endl;
+	cout << "1 for. Chislo biletov =" << oik << endl;
 
 	int k = two();
-	cout << "2 цикла. Количество счастливых билетов: " << k << endl;
+	cout << "2 for. Chislo biletov: " << k << endl;
 
 	int h=six();
-	cout <<"6 циклов. Кол-во билетов = " << h << endl;
+	cout <<"6 for. Chislo biletov = " << h << endl;
 
 	
 	system("pause");
